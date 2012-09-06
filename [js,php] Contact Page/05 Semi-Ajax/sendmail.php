@@ -33,7 +33,7 @@
 					$admin,
 					"mydomain.com contact : $subject",
 					$text,
-					"From:$name <$email" )
+					"From:$name <$email>" )
 			){
 				echo '<h2 class="ok">Mail sent</h2>';
 			}else{
